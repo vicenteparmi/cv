@@ -199,17 +199,18 @@ nav span {
 }
 
 #info_page {
-    width: 86vw;
-    height: fit-content;
+    width: 43vw;
+    height: 80vh;
     padding: 2vw;
     background-color: var(--box-color);
     border-radius: 16px;
     position: absolute;
     top: 4vw;
-    left: 50%;
+    left: 30%;
     display: none;
     z-index: 10;
     box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.24);
+    overflow-y: scroll;
 }
 
 .infopageAnimation {
