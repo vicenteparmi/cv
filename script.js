@@ -120,6 +120,7 @@ function openDialog(c, id) {
 
     title.innerHTML = content[c].content[id].card_title;
     subtitle.innerHTML = content[c].content[id].card_subtitle;
+    text.innerHTML = content[c].content[id].page_info;
 }
 
 function closeDialog() {
