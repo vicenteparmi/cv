@@ -11,11 +11,13 @@ const content = [
             },{
                 "card_title": "Período Especial",
                 "card_subtitle": "Criado para organizar as informações de disciplinas ofertadas no curso de Química da UFPR durante a pandemia.",
-                "card_img": "gincana"
+                "card_img": "gincana",
+                "page_info": "<p>O site do Per&iacute;odo Especial, alterado posteriormente para Grade Hor&aacute;ria do Curso de Qu&iacute;mica, foi criado com o objetivo de organizar as disciplinas ofertadas aos estudantes de gradua&ccedil;&atilde;o do curso de qu&iacute;mica da UFPR ao longo do ensino remoto. Notou-se que as informa&ccedil;&otilde;es estavam dispon&iacute;veis mas o acesso n&atilde;o era poss&iacute;vel de uma forma direta, que permitisse uma f&aacute;cil visualizalĩza&ccedil;&atilde;o. Com isso criouse o site, exibindo as informa&ccedil;&otilde;es das fichas, como professor que ofertaria a disciplina, datas e hor&aacute;rios em um s&oacute; local.</p><p>At&eacute; a atualiza&ccedil;&atilde;o para o semestre letivo de 2020/2 o site sofreu grandes mudan&ccedil;as, tendo inicialmente apenas as disciplinas separadas por dia da semana. Ap&oacute;s foram adicionados os links para as fichas das disiplinas e, por fim, organizadas por per&iacute;odo.</p><p>O objetivo atual &eacute; continuar atualizando o site em cada per&iacute;odo de oferta. A atualiza&ccedil;&atilde;o &eacute; realizada apenas adicionando par&acirc;metros em um arquivo JSON, que agrega todas as informa&ccedil;&otilde;es, e tamb&eacute;m pequenas mudan&ccedil;as no arquivo JavaScript, permitindo atualiza&ccedil;&otilde;es mais f&aacute;ceis.</p>"
             },{
                 "card_title": "Cardápio RU",
                 "card_subtitle": "Gera uma imagem pronta para a divulgação com o cardápio do Restaurante Universitário da UFPR",
-                "card_img": "gincana"
+                "card_img": "gincana",
+                "page_info": "<p>Desenvolvido para gerar o post dos stories do Instagram com o card&aacute;pio do restaurante universit&aacute;rio. Essa postagem &eacute; realizada diariamente com base nas informa&ccedil;&otilde;es fornecidas pela universidade atrav&eacute;s das redes sociais do Centro Acad&ecirc;mico de Qu&iacute;mica (CAQu&iacute;).</p><p>S&atilde;o selecionados alguns par&acirc;metros de entrada, como data a ser exibida, imagem (caso n&atilde;o seja a padr&atilde;o) e o texto da imagem. Tudo isso &eacute; ent&atilde;o desenhado em um elemento <em>canvas</em>, com JavaScript, e dispon&iacute;vel para download.</p>"
             },{
                 "card_title": "Tabela Periódica",
                 "card_subtitle": "Feita para consulta e memorização de todos os elementos da tabela periódica.",
