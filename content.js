@@ -21,19 +21,24 @@ const content = [
             },{
                 "card_title": "Tabela Periódica",
                 "card_subtitle": "Feita para consulta e memorização de todos os elementos da tabela periódica.",
-                "card_img": "gincana"
+                "card_img": "gincana",
+                "page_info": "<p>Criado para auxiliar na memoriza&ccedil;&atilde;o da posi&ccedil;&atilde;o de elementos qu&iacute;micos da Tabela Peri&oacute;dica. Nesse site voc&ecirc; pode consultar a posi&ccedil;&atilde;o de cada elemento, assim como entrar em um modo em que todos est&atilde;o escondidos, sendo necess&aacute;rio clicar em um dos espa&ccedil;os e digitar corretamente o s&iacute;mbolo para verificar. No final o n&uacute;mero de acertos e erros &eacute; exibido.</p>"
             },{
                 "card_title": "Primavera Cultural",
                 "card_subtitle": "Utilizado para o controle do áudio durante a apresentação do Projeto Primavera Cultural do Colégio Franciscano São José em 2017",
-                "card_img": "gincana"
+                "card_img": "gincana",
+                "page_info": "<p>Criado em 2018 para a apresenta&ccedil;&atilde;o cultural anual da escola, para controlar toda a parte de m&uacute;sicas e efeitos especiais. O site &eacute; separado por abas, em que &eacute; poss&iacute;vel ir alternando com a progress&atilde;o da apresenta&ccedil;&atilde;o.</p>"
             },{
                 "card_title": "Minimal Planet",
                 "card_subtitle": "Website para ser utilizado como papel de parede, apresentando um planeta com suas luas de forma minimalista.",
-                "card_img": "gincana"
+                "card_img": "gincana",
+                "page_info": "<p>Papel de parede animado para ser utilizado em computadores. &Eacute; exibido um planeta com dois objetos em &oacute;rbita em frente a um fundo estrelado. Esse planeta percorre a tela juntamente a alguns asteroides, em um movimento cont&iacute;nuo e infinito.</p><p>Para a elabora&ccedil;&atilde;o utilizou-se um elemento canvas junto a um arquivo JavaScript, que controla o que &eacute; exibido na tela.</p>"
             },{
                 "card_title": "BB-8",
                 "card_subtitle": "Apenas para diversão, onde é possível \"conversar\" com o robô BB-8, de Star Wars, além de controlá-lo.",
-                "card_img": "gincana"
+                "card_img": "gincana",
+                "page_info": "<p>Um dos primeiros sites criados, em torno de 2016, principalmente para aprender programa&ccedil;&atilde;o e linguagens de marca&ccedil;&atilde;o. Nesse projeto o protagonista &eacute; o BB-8, personagem de Star Wars, que anda e responde perguntas que voc&ecirc; faz para ele (de forma aleat&oacute;ria).</p>"
+                
             },{
                 "card_title": "Currículo",
                 "card_subtitle": "Este próprio site.",
