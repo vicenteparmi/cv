@@ -9,10 +9,11 @@ const contentHolder = document.getElementById("content");
 const infoPage = document.getElementById('info_page');
 const infoPageBg = document.getElementById('info_page_bg');
 let contentLength = 0;
+let pageCount = 5
 
 // Nav menu
 
-for(let i = 0; i <= 6; i++) {
+for(let i = 0; i <= pageCount; i++) {
     const nav = document.getElementById("nav"+i);
     nav.addEventListener("click", () => {
         setPagePos(i);
@@ -117,10 +118,23 @@ function openDialog(c, id) {
     const title = document.getElementById('page_title');
     const subtitle = document.getElementById('page_subtitle');
     const text = document.getElementById('page_info');
+    const img = document.getElementById('page_cover');
 
     title.innerHTML = content[c].content[id].card_title;
     subtitle.innerHTML = content[c].content[id].card_subtitle;
     text.innerHTML = content[c].content[id].page_info;
+    img.style.backgroundImage = "url('assets/"+content[c].content[id].card_img+".png')";
+
+    // Handle link
+    const link = document.getElementById('page_link');
+    if(content[c].content[id].page_link == "") {
+        link.style.display = "none";
+    }
+    else {
+        link.style.display = "block";
+        link.href = content[c].content[id].page_link;
+    }
+    
 }
 
 function closeDialog() {

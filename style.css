@@ -22,6 +22,7 @@ body {
     position: fixed;
     top: var(--page-border);
     left: var(--page-border);
+    color: var(--accent-text);
 }
 
 #profile_photo {
@@ -103,6 +104,7 @@ nav span {
 
 .div {
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.28);
+    background-position: top;
 }
 
 .div:hover {
@@ -118,6 +120,7 @@ nav span {
     width: 300px;
     bottom: 0;
     padding: 16px;
+    color: var(--accent-text);
 }
 
 .subdiv {
@@ -128,18 +131,19 @@ nav span {
 }
 
 .titleDiv {
-    border-style: solid;
+    border-style: dashed;
     border-width: 4px;
     border-color: var(--box-color);
     background-color: unset;
     width: 324px;
+    color: var(--box-color);
 }
 
 .titlesubdiv {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    color: var(--box-color);
+    color: var(--accent-text);
     text-align: center;
 }
 
@@ -151,6 +155,7 @@ nav span {
     font-size: 24pt;
     font-weight: 900;
     text-shadow: 3px 4px 0px var(--accent-text);
+    color: var(--box-color);
 }
 
 .title {
@@ -206,7 +211,7 @@ nav span {
     border-radius: 16px;
     position: absolute;
     top: 4vw;
-    left: 30%;
+    left: 50%;
     display: none;
     z-index: 10;
     box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.24);
@@ -265,6 +270,9 @@ nav span {
     height: 30vh;
     background-color: rgba(0, 0, 0, 0.24);
     border-radius: 16px;
+    background-size: cover;
+    border: solid 0px #212121;
+    box-shadow:rgba(0, 0, 0, 0.24) 0px 4px 8px;
 }
 
 #page_close {
@@ -278,4 +286,37 @@ nav span {
 
 #page_close:hover {
     opacity: 1;
+}
+
+#iframe {
+    width: 30vh;
+    height: 81vh;
+    border: none;
+    border-radius: 16px;
+    text-align: center;
+}
+
+#page_link {
+    cursor: pointer;
+    transition-duration: 0.3s;
+    margin-top: 24px;
+    padding: 8px 16px;
+    border-radius: 100px;
+    background-color: var(--accent-color);
+    color: var(--accent-text);
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.28);
+}
+
+#page_link:hover {
+    transform: scale(1.025);
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.24);
+}
+
+#page_link:active {
+    transform: scale(1);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.28);
 }
