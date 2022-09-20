@@ -11,7 +11,7 @@ const content = [
         card_img: "gincana",
         card_link: "https://gincanacaqui.web.app/",
         page_info:
-          '<h3>Sobre a Gincana</h3><p>A gincana da semana de boas-vindas &eacute; realizada pelo Centro Acad&ecirc;mico de Qu&iacute;mica (CAQu&iacute;), com o apoio do PET Qu&iacute;mica, da coordena&ccedil;&atilde;o do curso e da UFPR como um todo.</p><p>Ao longo da primeira semana de aula do ano &eacute; feita a proposta de que os calouros realizem uma s&eacute;rie de atividades para acumular pontos e no final ganhar o pr&ecirc;mio. Isso proporciona uma integra&ccedil;&atilde;o entre calouros e veteranos, al&eacute;m de fazer com que os mais novos membros da UFPR conhe&ccedil;am seus servi&ccedil;os e instala&ccedil;&otilde;es de maneira mais simplificada.</p><p>No ano de 2020, foi elaborado o site para um melhor controle dos dados e com o objetivo de facilitar o acesso das informa&ccedil;&otilde;es da gincana para os participantes. Atrav&eacute;s do site &eacute; poss&iacute;vel visualizar as tarefas que cada equipe cumpriu, os pontos, atividades que faltam para completar e enviar as pr&oacute;prias atividades.</p><p><img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/gincana1.png" style="height:281px; width:500px"/></p><h3>O site</h3><p>O site foi desenvolvido utilizando HTML, CSS e JavaScript, que s&atilde;o comummente utilizados para a elabora&ccedil;&atilde;o de sites da internet. Para hospedagem foi utilizado o servi&ccedil;o fornecido pelo GitHub, o G<em>ithub Pages</em>. Com isso o site foi facilmente disponibilizado &agrave; todos de maneira acess&iacute;vel e sem custos de manuten&ccedil;&atilde;o. Para o gerenciamento de usu&aacute;rios e base de dados utilizou-se o <em>Firebase</em>, plataforma que &eacute; fornecida pela Google.</p><p>A cria&ccedil;&atilde;o come&ccedil;ou no final de dezembro de 2019&nbsp;e o site foi conclu&iacute;do em meados de fevereiro, tendo apenas corre&ccedil;&otilde;es de bugs e melhorias at&eacute; ser colocado em uso no come&ccedil;o de mar&ccedil;o para a gincana.</p><p>Ao longo da gincana n&atilde;o houveram problemas no envio das atividades e na valida&ccedil;&atilde;o ou contabiliza&ccedil;&atilde;o dos pontos. O site foi bem recebido pelos estudantes e, conforme formul&aacute;rio de feedback, n&atilde;o houveram dificuldades de uso e tornou as atividades mais din&acirc;micas e claras.</p><p><img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/gincana2.png" style="height:281px; width:500px"/></p>',
+          "<h3>Sobre a Gincana</h3><p>A gincana da semana de boas-vindas &eacute; realizada pelo Centro Acad&ecirc;mico de Qu&iacute;mica (CAQu&iacute;), com o apoio do PET Qu&iacute;mica, da coordena&ccedil;&atilde;o do curso e da UFPR como um todo.</p><p>Ao longo da primeira semana de aula do ano &eacute; feita a proposta de que os calouros realizem uma s&eacute;rie de atividades para acumular pontos e no final ganhar o pr&ecirc;mio. Isso proporciona uma integra&ccedil;&atilde;o entre calouros e veteranos, al&eacute;m de fazer com que os mais novos membros da UFPR conhe&ccedil;am seus servi&ccedil;os e instala&ccedil;&otilde;es de maneira mais simplificada.</p><p>No ano de 2020, foi elaborado o site para um melhor controle dos dados e com o objetivo de facilitar o acesso das informa&ccedil;&otilde;es da gincana para os participantes. Atrav&eacute;s do site &eacute; poss&iacute;vel visualizar as tarefas que cada equipe cumpriu, os pontos, atividades que faltam para completar e enviar as pr&oacute;prias atividades.</p><h3>O site</h3><p>O site foi desenvolvido utilizando HTML, CSS e JavaScript, que s&atilde;o comummente utilizados para a elabora&ccedil;&atilde;o de sites da internet. Para hospedagem foi utilizado o servi&ccedil;o fornecido pelo GitHub, o G<em>ithub Pages</em>. Com isso o site foi facilmente disponibilizado &agrave; todos de maneira acess&iacute;vel e sem custos de manuten&ccedil;&atilde;o. Para o gerenciamento de usu&aacute;rios e base de dados utilizou-se o <em>Firebase</em>, plataforma que &eacute; fornecida pela Google.</p><p>A cria&ccedil;&atilde;o come&ccedil;ou no final de dezembro de 2019&nbsp;e o site foi conclu&iacute;do em meados de fevereiro, tendo apenas corre&ccedil;&otilde;es de bugs e melhorias at&eacute; ser colocado em uso no come&ccedil;o de mar&ccedil;o para a gincana.</p><p>Ao longo da gincana n&atilde;o houveram problemas no envio das atividades e na valida&ccedil;&atilde;o ou contabiliza&ccedil;&atilde;o dos pontos. O site foi bem recebido pelos estudantes e, conforme formul&aacute;rio de feedback, n&atilde;o houveram dificuldades de uso e tornou as atividades mais din&acirc;micas e claras.</p>",
       },
       {
         card_title: "Armários no DQ",
@@ -109,8 +109,10 @@ const content = [
         card_title: "Obligal",
         card_subtitle: "Projeto musical, utilizando Obligal como pseudônimo.",
         card_img: "obligal",
-        card_link: "https://open.spotify.com/artist/2B8sjxLBTDQeT8EORv7Jdb?si=XYo4PFs-QUKt2eJLcwZQ7g",
-        page_info: "<p>Obligal &eacute; um projeto que come&ccedil;ou com o lan&ccedil;amento de algumas m&uacute;sicas antigas salvas em meu computador, que se transformaram no EP Deflixo. Escreveu a letra de Grow In Our Hearts e o single foi lan&ccedil;ado no dia 8 de janeiro. Depois disso produzi a m&uacute;sica e os visuais, e os vocais foram gravados por Lia Parmi.</p> <p>Depois de alguns meses, escrevi mais m&uacute;sicas e em 19 de novembro o primeiro &aacute;lbum, chamado Backscatter, foi lan&ccedil;ado. Neste &aacute;lbum foram inclu&iacute;das a maioria das m&uacute;sicas do EP Deflixo, com Grow In Our Hearts e mais dois singles: Sonar e Cluster.</p> <p>No final de 2021, o EP de Natal, intitulado Xmas Pastel, em parceria com a Guineer. Houve tamb&eacute;m o lan&ccedil;amento da vers&atilde;o de est&uacute;dio de Once In A Blue Moon.</p> <p>Em 2022, com algumas m&uacute;sicas produzidas em meu tempo livre, o lan&ccedil;amento de E&bull;phem&bull;er&bull;al foi planejado para o dia 8 de abril, com o single principal We Will Enjoy.</p> <p>E com mais m&uacute;sica feita em seu tempo livre, o EP Crystals j&aacute; est&aacute; no ar.</p> <p>&nbsp;</p>",
+        card_link:
+          "https://open.spotify.com/artist/2B8sjxLBTDQeT8EORv7Jdb?si=XYo4PFs-QUKt2eJLcwZQ7g",
+        page_info:
+          "<p>Obligal &eacute; um projeto que come&ccedil;ou com o lan&ccedil;amento de algumas m&uacute;sicas antigas salvas em meu computador, que se transformaram no EP Deflixo. Escreveu a letra de Grow In Our Hearts e o single foi lan&ccedil;ado no dia 8 de janeiro. Depois disso produzi a m&uacute;sica e os visuais, e os vocais foram gravados por Lia Parmi.</p> <p>Depois de alguns meses, escrevi mais m&uacute;sicas e em 19 de novembro o primeiro &aacute;lbum, chamado Backscatter, foi lan&ccedil;ado. Neste &aacute;lbum foram inclu&iacute;das a maioria das m&uacute;sicas do EP Deflixo, com Grow In Our Hearts e mais dois singles: Sonar e Cluster.</p> <p>No final de 2021, o EP de Natal, intitulado Xmas Pastel, em parceria com a Guineer. Houve tamb&eacute;m o lan&ccedil;amento da vers&atilde;o de est&uacute;dio de Once In A Blue Moon.</p> <p>Em 2022, com algumas m&uacute;sicas produzidas em meu tempo livre, o lan&ccedil;amento de E&bull;phem&bull;er&bull;al foi planejado para o dia 8 de abril, com o single principal We Will Enjoy.</p> <p>E com mais m&uacute;sica feita em seu tempo livre, o EP Crystals j&aacute; est&aacute; no ar.</p> <p>&nbsp;</p>",
       },
       {
         card_title: "Seleção Convivência COVID-19 UFPR",
@@ -126,15 +128,51 @@ const content = [
         card_subtitle: "Projeto escolar sobre a Semana de Arte Moderna.",
         card_img: "sam",
         card_link: "https://www.youtube.com/watch?v=CpqtOJ_UWFA",
-        page_info: "Vídeo roteirizado e editado para o projeto escolar da disciplina de Literatura, com o tema da Semanad de Arte Moderna, com apoio de alguns colegas de classe.",
+        page_info:
+          "Vídeo roteirizado e editado para o projeto escolar da disciplina de Literatura, com o tema da Semanad de Arte Moderna, com apoio de alguns colegas de classe.",
       },
       {
         card_title: "Jason",
-        card_subtitle: "Vídeo em stop motion criado para a disciplina de Literatura.",
+        card_subtitle:
+          "Vídeo em stop motion criado para a disciplina de Literatura.",
         card_img: "jason",
         card_link: "https://youtu.be/h68t4uchPYA",
-        page_info: "Vídeo em stop motion criado para a disciplina de Literatura.",
-      }
+        page_info:
+          "Vídeo em stop motion criado para a disciplina de Literatura.",
+      },
+    ],
+  },
+  {
+    title: "Acadêmico",
+    description: "Informações sobre minha vida acadêmica.",
+    content: [
+      {
+        card_title: "Currículo Lattes",
+        card_subtitle: "Acesse meu currículo Lattes.",
+        card_img: "lattes",
+        card_link: "http://lattes.cnpq.br/1766775738957303",
+        page_info: "Link para o acesso de meu currículo Lattes.",
+      },
+      {
+        card_title: "Centro Acadêmico de Química",
+        card_subtitle: "Participação no Centro Acadêmico de Química.",
+        card_img: "caqui",
+        page_info:
+          "<p>Concorri &agrave;s elei&ccedil;&otilde;es e a chapa da qual eu fazia parte foi eleita no ano de 2019, participando do Centro Acad&ecirc;mico de Qu&iacute;mica (CAQu&iacute;) entre os anos de 2020 e 2022. Em fun&ccedil;&atilde;o da pandemia o mandato foi extendido al&eacute;m do 1 ano, como de costume.</p> <p>No CA, fui o presidente da Coordenadoria de Imprensa, respons&aacute;vel pela comunica&ccedil;&atilde;o com os estudantes e divulga&ccedil;&atilde;o de not&iacute;cias, atividades e oportunidades. Por&eacute;m, com o passar do tempo, alguns membros deixaram de participar e acabei me envolvendo ativamente em diversas outras &aacute;reas, como de secretaria, eventos e ourtras.</p>",
+      },
+    ],
+  },
+  {
+    title: "Contato",
+    description: "Entre em contato!",
+    content: [
+      {
+        card_title: "Formas de contato",
+        card_subtitle: "Email, redes sociais e telefone.",
+        card_img: "vicente",
+        page_info:
+          '<p>Para entrar em contato, utilize os meios abaixo:</p> <h3>Email</h3> <p>Pessoal: <a href="mailto:vicenteparmigiani@gmail.com">vicenteparmigiani@gmail.com</a><br /> UFPR: <a href="mailto:vicenteparmigiani@ufpr.br">vicenteparmigiani@ufpr.br</a></p> <h3>Redes sociais</h3> <p>Instagram: <a href="https://www.instagram.com/vicenteparmi/" target="_blank">@vicenteparmi</a><br /> Facebook: <a href="https://www.facebook.com/vicenteparmigiani.1" target="_blank">Vicente Parmigiani</a><br /> LinkedIn: <a href="https://www.linkedin.com/in/vicente-parmigiani-1a649b199/" target="_blank">Vicente Parmigiani</a></p> ',
+      },
     ],
   },
 ];
