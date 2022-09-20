@@ -154,12 +154,26 @@ const content = [
         page_info: "Link para o acesso de meu currículo Lattes.",
       },
       {
+        card_title: "Inicialização Científica (GPMIn)",
+        card_subtitle: "Aluno bolsista de iniciação científica.",
+        card_img: "gpmin",
+        page_info:
+          "<p>Participei do Grupo de Pesquisa de Macromoléculas e Interfaces (GPMIn) como aluno bolsista de inicia&ccedil;&atilde;o cient&iacute;fica, sob a orienta&ccedil;&atilde;o do professor Dr. Marcio Vidotti, entre os anos de 2020 e 2022</p> <p>Meu projeto de pesquisa foi relacionado à síntese e caracterização de nanocápsulas de polímeros condutores e também degradação de biogás através de processos de fotoeletrocatálise.</p>",
+      },
+      {
         card_title: "Centro Acadêmico de Química",
         card_subtitle: "Participação no Centro Acadêmico de Química.",
         card_img: "caqui",
         page_info:
           "<p>Concorri &agrave;s elei&ccedil;&otilde;es e a chapa da qual eu fazia parte foi eleita no ano de 2019, participando do Centro Acad&ecirc;mico de Qu&iacute;mica (CAQu&iacute;) entre os anos de 2020 e 2022. Em fun&ccedil;&atilde;o da pandemia o mandato foi extendido al&eacute;m do 1 ano, como de costume.</p> <p>No CA, fui o presidente da Coordenadoria de Imprensa, respons&aacute;vel pela comunica&ccedil;&atilde;o com os estudantes e divulga&ccedil;&atilde;o de not&iacute;cias, atividades e oportunidades. Por&eacute;m, com o passar do tempo, alguns membros deixaram de participar e acabei me envolvendo ativamente em diversas outras &aacute;reas, como de secretaria, eventos e ourtras.</p>",
       },
+      {
+        card_title: "PET Química",
+        card_subtitle: "Participação no PET Química.",
+        card_img: "petlogo",
+        page_info:
+          "Participação como membro voluntário no PET Química no ano de 2021, em que além de desenvolver os vídeos para o YouTube, também participei de diversas atividades do grupo.",
+      }
     ],
   },
   {
