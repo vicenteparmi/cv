@@ -1,8 +1,8 @@
 const content = [
   {
-    title: "Websites",
+    title: "Aplicativos",
     description:
-      "Páginas para a internet desenvolvidas em HTML, CSS, JavaScript etc. ao longo dos anos e para os mais diversos fins.",
+      "Apps e páginas para a internet desenvolvidas em HTML, CSS, JavaScript etc, ao longo dos anos e para os mais diversos fins.",
     content: [
       {
         card_title: "Gincana CAQuí",
@@ -12,6 +12,15 @@ const content = [
         card_link: "https://gincanacaqui.web.app/",
         page_info:
           "<h3>Sobre a Gincana</h3><p>A gincana da semana de boas-vindas &eacute; realizada pelo Centro Acad&ecirc;mico de Qu&iacute;mica (CAQu&iacute;), com o apoio do PET Qu&iacute;mica, da coordena&ccedil;&atilde;o do curso e da UFPR como um todo.</p><p>Ao longo da primeira semana de aula do ano &eacute; feita a proposta de que os calouros realizem uma s&eacute;rie de atividades para acumular pontos e no final ganhar o pr&ecirc;mio. Isso proporciona uma integra&ccedil;&atilde;o entre calouros e veteranos, al&eacute;m de fazer com que os mais novos membros da UFPR conhe&ccedil;am seus servi&ccedil;os e instala&ccedil;&otilde;es de maneira mais simplificada.</p><p>No ano de 2020, foi elaborado o site para um melhor controle dos dados e com o objetivo de facilitar o acesso das informa&ccedil;&otilde;es da gincana para os participantes. Atrav&eacute;s do site &eacute; poss&iacute;vel visualizar as tarefas que cada equipe cumpriu, os pontos, atividades que faltam para completar e enviar as pr&oacute;prias atividades.</p><h3>O site</h3><p>O site foi desenvolvido utilizando HTML, CSS e JavaScript, que s&atilde;o comummente utilizados para a elabora&ccedil;&atilde;o de sites da internet. Para hospedagem foi utilizado o servi&ccedil;o fornecido pelo GitHub, o G<em>ithub Pages</em>. Com isso o site foi facilmente disponibilizado &agrave; todos de maneira acess&iacute;vel e sem custos de manuten&ccedil;&atilde;o. Para o gerenciamento de usu&aacute;rios e base de dados utilizou-se o <em>Firebase</em>, plataforma que &eacute; fornecida pela Google.</p><p>A cria&ccedil;&atilde;o come&ccedil;ou no final de dezembro de 2019&nbsp;e o site foi conclu&iacute;do em meados de fevereiro, tendo apenas corre&ccedil;&otilde;es de bugs e melhorias at&eacute; ser colocado em uso no come&ccedil;o de mar&ccedil;o para a gincana.</p><p>Ao longo da gincana n&atilde;o houveram problemas no envio das atividades e na valida&ccedil;&atilde;o ou contabiliza&ccedil;&atilde;o dos pontos. O site foi bem recebido pelos estudantes e, conforme formul&aacute;rio de feedback, n&atilde;o houveram dificuldades de uso e tornou as atividades mais din&acirc;micas e claras.</p>",
+      },
+      {
+        card_title: "School App",
+        card_subtitle:
+          "App para Android criado para auxiliar nas atividades de estudantes do ensino médio.",
+        card_img: "schoolapp",
+        card_link: "https://play.google.com/store/apps/details?id=com.parmigiani.vicente.phisics",
+        page_info:
+          "<p><em>Este aplicativo possui:</em><br /> <br /> <strong>F&iacute;sica</strong><br /> - C&aacute;lculo do Teorema de Pit&aacute;goras<br /> - Fun&ccedil;&otilde;es envolvendo &acirc;ngulos<br /> - C&aacute;lculo de for&ccedil;as (For&ccedil;a resultante, for&ccedil;a em &quot;y&quot; e &quot;x&quot;, velocidade, atrito, etc.)<br /> - Est&aacute;tica do ponto material<br /> <br /> <strong>Matem&aacute;tica</strong><br /> - C&aacute;lculo do Teorema de Pit&aacute;goras (F&iacute;sica)<br /> - Calculadora<br /> <br /> <strong>Qu&iacute;mica</strong><br /> Pesquisa de elementos qu&iacute;micos na tabela peri&oacute;dica por n&uacute;mero at&ocirc;mico ou s&iacute;mbolo<br /> <br /> <strong>Geografia</strong><br /> Um mapa simples<br /> <br /> <strong>Conversor</strong><br /> Converta at&eacute; 40 medidas de forma r&aacute;pida e f&aacute;ci</p>",
       },
       {
         card_title: "Armários no DQ",
@@ -40,6 +49,16 @@ const content = [
           "https://vicenteparmi.github.io/QUFPR/src/pages/periodictable/table.html",
         page_info:
           "<p>Criado para auxiliar na memoriza&ccedil;&atilde;o da posi&ccedil;&atilde;o de elementos qu&iacute;micos da Tabela Peri&oacute;dica. Nesse site voc&ecirc; pode consultar a posi&ccedil;&atilde;o de cada elemento, assim como entrar em um modo em que todos est&atilde;o escondidos, sendo necess&aacute;rio clicar em um dos espa&ccedil;os e digitar corretamente o s&iacute;mbolo para verificar. No final o n&uacute;mero de acertos e erros &eacute; exibido.</p>",
+      },
+      {
+        card_title: "Contador de Gente",
+        card_subtitle:
+          "App para Android feito em uma brincadeira para contar quantas vezes um professor falava 'gente' em uma aula.",
+        card_img: "gente",
+        card_link:
+          "https://play.google.com/store/apps/details?id=com.parmigiani.vicente.contadordegente",
+        page_info:
+          "Este aplicativo foi desenvolvido para contar quantas vezes um professor falava 'gente' em uma aula. O aplicativo foi feito em uma brincadeira entre amigos e foi disponibilizado para download no Google Play.",
       },
       {
         card_title: "Primavera Cultural",
