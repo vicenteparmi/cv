@@ -88,8 +88,8 @@ const content = [
           "<p>Um dos primeiros sites criados, em torno de 2016, principalmente para aprender programa&ccedil;&atilde;o e linguagens de marca&ccedil;&atilde;o. Nesse projeto o protagonista &eacute; o BB-8, personagem de Star Wars, que anda e responde perguntas que voc&ecirc; faz para ele (de forma aleat&oacute;ria).</p>",
       },
       {
-        card_title: "Currículo",
-        card_subtitle: "Este próprio site.",
+        card_title: "Portifólio",
+        card_subtitle: "Este próprio site, que possui finalidade de reunir minhas criações de maior destaque.",
         card_img: "self",
         card_link: "https://vicenteparmi.github.io/cv",
         page_info:
